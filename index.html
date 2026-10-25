@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>雅思单词</title>
+<meta name="theme-color" content="#2f6fed">
+<link rel="manifest" href="./manifest.webmanifest">
+<link rel="icon" href="./icons/icon-192.png">
+<link rel="apple-touch-icon" href="./icons/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="雅思单词">
+<link rel="stylesheet" href="./style.css">
+</head>
+<body>
+<header>
+  <h1>雅思单词</h1>
+  <div id="stats" class="stats"></div>
+</header>
+<nav id="tabs">
+  <button data-mode="flash" class="active">闪卡</button>
+  <button data-mode="quiz">选择题</button>
+  <button data-mode="spell">拼写</button>
+  <button data-mode="wrong">错词本</button>
+</nav>
+<main id="app"></main>
+<footer>共 <span id="total"></span> 个高频词 · 进度保存在本机浏览器</footer>
+<script src="./words.js"></script>
+<script src="./app.js"></script>
+</body>
+</html>
