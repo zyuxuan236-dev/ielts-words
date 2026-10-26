@@ -1,1 +1,65 @@
-{"date": "", "words": []}
+{
+ "date": "2026-10-26",
+ "words": [
+  {
+   "w": "accept",
+   "p": "/əkˈsept/",
+   "m": "v. 接受",
+   "e": "I accept your offer."
+  },
+  {
+   "w": "account",
+   "p": "/əˈkaʊnt/",
+   "m": "n. 账户；描述",
+   "e": "I opened a bank account last week."
+  },
+  {
+   "w": "admit",
+   "p": "/ədˈmɪt/",
+   "m": "v. 承认；准许进入",
+   "e": "He admitted that he was wrong."
+  },
+  {
+   "w": "advice",
+   "p": "/ədˈvaɪs/",
+   "m": "n. 建议",
+   "e": "My teacher gave me some good advice."
+  },
+  {
+   "w": "brief",
+   "p": "/briːf/",
+   "m": "adj. 简短的",
+   "e": "She gave a brief answer."
+  },
+  {
+   "w": "claim",
+   "p": "/kleɪm/",
+   "m": "v. 声称；索取",
+   "e": "He claims that he saw a ghost."
+  },
+  {
+   "w": "depend",
+   "p": "/dɪˈpend/",
+   "m": "v. 依靠；取决于",
+   "e": "It depends on the weather."
+  },
+  {
+   "w": "employ",
+   "p": "/ɪmˈplɔɪ/",
+   "m": "v. 雇用",
+   "e": "The company employs 200 people."
+  },
+  {
+   "w": "household",
+   "p": "/ˈhaʊshəʊld/",
+   "m": "n. 家庭；一家人",
+   "e": "Most households have a computer now."
+  },
+  {
+   "w": "replace",
+   "p": "/rɪˈpleɪs/",
+   "m": "v. 取代；替换",
+   "e": "Robots may replace some workers."
+  }
+ ]
+}
